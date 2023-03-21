@@ -1,0 +1,46 @@
+{
+  "heroes": [
+    {
+      "id": "1",
+      "universe": "MARVEL",
+      "heroe": "IRON MAN",
+      "movies": "IRON MAN",
+      "photoUrl": "https://images-na.ssl-images-amazon.com/images/I/51heVTtbUAL._SX327_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": "2",
+      "universe": "MARVEL",
+      "heroe": "SPIDERMAN",
+      "movies": "SPIDERMAN",
+      "photoUrl": "https://www.zonanegativa.com/imagenes/2020/03/shmma381_0.jpg"
+    },
+    {
+      "id": "3",
+      "universe": "MARVEL",
+      "heroe": "DR. STRANGE",
+      "movies": "DR. STRANGE",
+      "photoUrl": "http://2.bp.blogspot.com/-STCwUTIS2XA/Vfb2_rC69WI/AAAAAAAAB_0/i0PCe3p1w0A/s1600/Doctor_Strange_Vol_1_169.jpg"
+    },
+    {
+      "id": "4",
+      "universe": "MARVEL",
+      "heroe": "HULK",
+      "movies": "AVENGERS",
+      "photoUrl": "https://www.milcomics.com/fotos/el-increible-hulk-100-95022-1.jpg"
+    },
+    {
+      "universe": "MARVEL",
+      "heroe": "Thor",
+      "movies": "End Game",
+      "photoUrl": "https://i2.wp.com/www.tomosygrapas.com/wp-content/uploads/2021/03/Thor-de-Nick-Klein.png?resize=747%2C1133&ssl=1",
+      "id": "-IHx-9F"
+    },
+    {
+      "universe": "MARVEL",
+      "heroe": "Black Widow",
+      "movies": "Infinity War",
+      "photoUrl": "https://images-na.ssl-images-amazon.com/images/I/511bJW4YkPL._SX323_BO1,204,203,200_.jpg",
+      "id": "aFnCY1O"
+    }
+  ]
+}
